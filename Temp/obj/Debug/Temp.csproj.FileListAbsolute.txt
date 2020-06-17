@@ -1,0 +1,12 @@
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.About.resources
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.FileGeneration.resources
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.Form1.resources
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.csproj.GenerateResource.cache
+C:\Users\izana\source\repos\Temp\Temp\bin\Debug\Temp.exe.config
+C:\Users\izana\source\repos\Temp\Temp\bin\Debug\Temp.exe
+C:\Users\izana\source\repos\Temp\Temp\bin\Debug\Temp.pdb
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.Properties.Resources.resources
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.exe
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.pdb
+C:\Users\izana\source\repos\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
